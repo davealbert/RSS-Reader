@@ -1,4 +1,6 @@
 RSS-Reader
 ==========
 
-RSS Reader for iOS
+RSS Reader for iOS using iCloud
+
+
